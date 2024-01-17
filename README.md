@@ -4,12 +4,13 @@ Python機器學習 Assignmants notes for 尚瑀:
 UNit 1 assignment is in the link at the list below for you to review:
 https://github.com/mwangui/IMLP404/blob/main/Unit01/Unit01_Crash%20Course%20on%20Python.ipynb
 
-
-
-
-
-
 =====================================
+
+
+
+
+
+
 Unit 0 - Notes:
 https://cool.ntu.edu.tw/courses/33513
 
